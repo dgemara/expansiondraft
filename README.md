@@ -1,6 +1,6 @@
 # expansiondraft
 
-This is my undergraduate capstone project. 
+This is my undergraduate capstone project, to try to determine the optimal strategy for the Las Vegas Golden Knights, able to pluck a player from each team, with a number of constraints.
 
 The project was originally done in Excel using Solver, but is now updated using R, specifically tidyverse and lpsolve.
 
