@@ -6,8 +6,12 @@ The project was originally done in Excel using Solver, but is now updated using 
 
 The data comes from:
 
-Corsica
+Corsica (RIP) - for GameScore
 
-Hockey-Reference
+[Hockey-Reference](http://hockey-reference.com) - for point shares
 
-CapFriendly
+[CapFriendly](http://capfriendly.com) - for cap hit, rookie vs protected data.
+
+[Wikipedia](http://wikipedia.org) - for players that were actually protected.
+
+The data was scraped (responsibly) from these sites, and the data files can be found in the 'data' folder.
